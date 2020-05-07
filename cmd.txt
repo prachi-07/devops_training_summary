@@ -1,0 +1,86 @@
+    1  rpm -i firefox-60.5.1-1.el8.x86_64.rpm
+    2  ls
+    3  whoami
+    4  rpm -q firefox
+    5  rpm -e firefox
+    6  yum install firefox
+    7  pwd
+    8  cd /run/media/prachig/RHEL-8-0-0-BaseOS-x86_64/AppStream
+    9  cd /etc/yum.repos.d/
+   10  pwd
+   11  ls
+   12  gedit prachi.repo
+   13  cd ..
+   14  cd /run/media/prachig/RHEL-8-0-0-BaseOS-x86_64/AppStream
+   15  pwd
+   16  cd /etc/yum.repos.d/
+   17  gedit prachi.repo
+   18  systemctl status jenkins
+   19  systemctl status httpd
+   20  systemctl start httpd
+   21  systemctl status httpd
+   22  cd /var/www/html/
+   23  ls
+   24  git clone https://github.com/prachi-07/devopsal2.git jack
+   25  ls
+   26  git clone https://github.com/prachi-07/devopsal2.git
+   27  ls
+   28  cd jack/
+   29  cat > linux.html
+   30  cat > web.html
+   31  cat linux.txt
+   32  ls
+   33  cat linux.html
+   34  cat web.html
+   35  cat > linux.html
+   36  cat linux.html
+   37  ls
+   38  cd 
+   39  cd /var/www/html/
+   40  ls
+   41  git clone https://github.com/prachi-07/devopsal2.git
+   42  rm *
+   43  rm -rf
+   44  ls
+   45  cd jack
+   46  rm *
+   47  ls
+   48  cd 
+   49  cd /var/www/html/
+   50  rm *
+   51  rmdir *
+   52  rm -rf
+   53  ls
+   54  rm -rf .git
+   55  ls
+   56  rm -d devopsal2 rmdir devopsal2
+   57  cd devopsal2
+   58  ls
+   59  rm *
+   60  cd /var/www/html/
+   61  rm -d devopsal2 rmdir devopsal2
+   62  rm -rf .git
+   63  ls
+   64  cd devopsal2
+   65  git checkout master
+   66  git rm -r devopsal2
+   67  cd /var/www/html/
+   68  git rm -r devopsal2
+   69  rm - r devopsal2
+   70  rmdir
+   71  rmdir -h
+   72  rmdir --help
+   73  rmdir -p devopsal2
+   74  cd devopsal2
+   75  ls
+   76  ls -a
+   77  rm -rf .git
+   78  ls -a
+   79  rm -rf *
+   80  ls -a
+   81  cd /var/www/html/
+   82  rm -rf *
+   83  ls
+   84  ls -a
+   85  notepad linux.html
+   86  history
